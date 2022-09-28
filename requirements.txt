@@ -1,6 +1,5 @@
 anyio==3.6.1
 Babel==2.10.3
-backports.functools-lru-cache @ 
 certifi==2022.9.24
 charset-normalizer==2.1.1
 contourpy==1.0.5
