@@ -1,6 +1,8 @@
 # Machine Learning Stock Prediction web-app
 This was completed as apart of my WGU Capstone project for my Computer Science Bachelor's for a fictional company I created called HedgeVision.
 
+Feel free to check it out on MyBinder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NathanWhite-hub/Machine-Learning-Stock-Prediction-web-app/main?urlpath=%2Fvoila%2Frender%2FStock%20Analyzer.ipynb)
+
 ## Project Purpose
 This project’s main purpose was to develop and deliver a model capable of analyzing the NASDAQ for a given company. A secondary purpose of this project was to deliver a dashboard that provided in depth metrics for model performance, market analysis, and virtual testing environment. Through this virtual testing environment potential return on investment was provided in the form of percentage lost or gained. This potential return is also compared against the actual market return percentage. A continual data stream with Yahoo Finance was established for the purpose of continued use and model testing.
 
